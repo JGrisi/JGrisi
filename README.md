@@ -17,7 +17,7 @@ Eu desejo me tornar um desenvolvedor fullstack, mas estou aberto a um aprofundam
 ## Atualmente
 👩‍💻 atualmente nõ tenho trabalhado em nada e ativamente estou a procura de um emprego
 
-🧠 Estudando python
+🧠 Estudando C#
 
 ## 🛠 Skills
 Javascript, HTML, CSS, Python
